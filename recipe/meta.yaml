@@ -11,7 +11,7 @@ source:
     - patches/0001-Dynamic-linking-for-Python-package.patch
 
 build:
-  number: 0
+  number: 1
   skip: true  # [not linux]
 
 requirements:
